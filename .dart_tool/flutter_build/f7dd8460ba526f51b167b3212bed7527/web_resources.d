@@ -1,0 +1,1 @@
+ C:\\Users\\Admin\\Desktop\\APPS\\Family_Portfolio\\build\\web\\manifest.json:  C:\\Users\\Admin\\Desktop\\APPS\\Family_Portfolio\\web\\index.html C:\\Users\\Admin\\Desktop\\APPS\\Family_Portfolio\\web\\manifest.json
